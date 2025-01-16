@@ -52,7 +52,7 @@ Follow these steps to set up and run this project locally:
 ### 1. Home Page
 ![Home Page Screenshot](images/home.png)
 
-### 2. Projects Section
+### 2. Services
 ![Projects Section Screenshot](images/services.png)
 
 
