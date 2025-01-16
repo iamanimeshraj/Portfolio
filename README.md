@@ -50,9 +50,9 @@ Follow these steps to set up and run this project locally:
 ## 🎨 Screenshots
 
 ### 1. Home Page
-![Home Page Screenshot](assets/screenshots/homepage.png)
+![Home Page Screenshot](images/home.png)
 
 ### 2. Projects Section
-![Projects Section Screenshot](assets/screenshots/projects.png)
+![Projects Section Screenshot](images/services.png)
 
 
